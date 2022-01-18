@@ -1,0 +1,4 @@
+B1: Mở file demo.ipynb bằng jupyter notebook hoặc các chương trình khác hỗ trợ định dạng file .ipynb
+B2: Lưu ảnh cần xác định với tên 'input.png' vào cùng thư mục của file demo.ipynb
+B3: Chọn Restart and Run all trong mục Kernel
+B4: Kết quả sẽ được hiển thị trực tiếp trong file demo.ipynb
